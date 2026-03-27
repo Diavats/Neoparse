@@ -11,3 +11,6 @@ TARGET-
 ~Engineer semantic chunking (400-token chunks, 50-token overlap) with sentence-transformer embeddings, cutting irrelevant chunk retrieval by 40% vs naive fixed-size splitting
 ~Eliminate citation hallucinations — baseline LLM misattributed citations in 6/10 domain queries vs 0/10 with RAG grounding over indexed biomedical corpus
 ~Deploy Streamlit interface with RAG vs baseline comparison across 3 embedding configs (MiniLM, BioBERT, OpenAI) for systematic retrieval quality benchmarking
+
+
+### Main codebase will be added soon
