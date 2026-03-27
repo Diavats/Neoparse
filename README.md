@@ -4,7 +4,7 @@ Biomedical Literature Intelligence System
 
 The repository is being prepared for public release. Final code and documentation will be available soon.
 
-TECH STACK - Python, LangChain, ChromaDB, Gemini API, Streamlit 
+TECH STACK - Python, LangChain, ChromaDB, Sentence-Transformers, Gemini API, Streamlit 
 
 TARGET-
 ~Architect end-to-end RAG pipeline over 50+ PubMed papers across TCR specificity, neoepitope cross-reactivity, and glioblastoma immunotherapy, automating literature synthesis from prior research workflows
